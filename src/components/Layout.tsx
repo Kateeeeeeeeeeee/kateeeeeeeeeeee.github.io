@@ -13,7 +13,7 @@ export default function Layout({ children }: LayoutProps) {
           <div className="flex justify-between items-center py-6">
             <div className="flex items-center">
               <Link href="/" className="flex items-center space-x-2 text-2xl font-bold text-gray-900 dark:text-white hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                <img src="/blog-icon.svg" alt="Blog Icon" className="w-8 h-8" />
+                <img src="/blog-icon.png" alt="Blog Icon" className="w-8 h-8" />
                 <span>SamBlog</span>
               </Link>
             </div>

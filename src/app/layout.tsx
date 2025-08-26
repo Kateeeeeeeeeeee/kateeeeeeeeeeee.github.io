@@ -16,9 +16,9 @@ export const metadata: Metadata = {
   title: "Sam's Blog - 개발자의 일상과 기술 이야기",
   description: "개발자의 일상, 기술 팁, 프로젝트 회고를 담은 개인 블로그입니다.",
   icons: {
-    icon: '/favicon.svg',
-    shortcut: '/favicon.svg',
-    apple: '/blog-icon.svg',
+    icon: '/blog-icon.png',
+    shortcut: '/blog-icon.png',
+    apple: '/blog-icon.png',
   },
 };
 

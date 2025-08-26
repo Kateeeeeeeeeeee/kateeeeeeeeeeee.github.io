@@ -12,7 +12,7 @@ export default function Home() {
       <section className="text-center py-16 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg text-white mb-12">
         <div className="flex justify-center mb-8">
           <img 
-            src="/blog-icon.svg" 
+            src="/blog-icon.png" 
             alt="SamBlog Icon" 
             className="w-24 h-24 md:w-32 md:h-32 drop-shadow-lg animate-bounce"
             style={{ animationDuration: '3s' }}
@@ -57,7 +57,7 @@ export default function Home() {
       <section className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-8">
         <div className="flex items-center mb-6">
           <img 
-            src="/blog-icon.svg" 
+            src="/blog-icon.png" 
             alt="SamBlog Icon" 
             className="w-12 h-12 mr-4"
           />
